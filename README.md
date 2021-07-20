@@ -5,11 +5,27 @@
 </p>
 
 # Dan Idra
-<sub>*Diretor de Operações* at Vithar Varejo</sub>
+<sub>*Sócio Fundador* da Joyful Educação Financeira</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Você não acha cansativo e totalmente padronizado estes resuminhos profissionais?
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Por onde passei? O que estudei? Ou quem de fato eu sou? Você se conhece o suficiente pra dizer quem é? Eu me conheço.
+
+Me formei em Administração na USP de Ribeirão Preto, tive o imenso prazer de ter participado da AIESEC como membro e do Núcleo de Emprendedores da FEA-RP/USP fiz toda escadinha: Membro>Coordenador de Projeto> Diretor de Projetos> Presidente > Conselheiro. O que mais aprendi aqui foi lidar e entender pessoas que são a base de toda organização.
+
+Antes disso fiz dois anos de física no Instituto de Física da USP que me fez aprender um modelo mental lógico estruturado em modelos.
+
+E hoje estudo Ciências de Dados e VFX compositing, o que faz todo sentido com nossa operação da Joyful de Educação. Ciências de Dados por me ensinar como funciona o aprendizado de modo profundo e VFX por me possibilitar criar conteúdos únicos pra nossos cursos.
+
+Além disso cuidado das operações da Vithar que trabalha com marketplaces como Mercado Livre e Shopee.
+
+Mas isso responde por onde passei, o que estudei, mas quem sou?
+
+Sou aquele que olha no olho de todo ser que respira e entende que assim como eu tem direito a viver a melhor vida possível, ou seja ter bem-estar ou melhor inteireza(se quiser saber o que isso significa vai ter que comprar meu curso). Então minha missão é trabalhar pra aumentar o bem-estar do maior número possível de seres que respiram. Gosto de incomodar, ser espelho dos defeitos alheios, não nasci pra agradar, nasci pra dar a possibilidade das pessoas melhorarem. Não nasci pra julgar, como todo ser que tem um receptáculo humano, nasci para amar.
+
+Claro que também conheço meus defeitos, são inúmeros, mas eu que não vou dar publicidade a eles, afinal burrice ou tolice não fazem parte deles.
+
+E você quem é?
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
