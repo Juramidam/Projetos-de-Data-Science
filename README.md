@@ -15,24 +15,22 @@ Me formei em Administração na USP de Ribeirão Preto, tive o imenso prazer de 
 
 Antes disso fiz dois anos de física no Instituto de Física da USP que me fez aprender um modelo mental lógico estruturado em modelos.
 
-E hoje estudo Ciências de Dados e VFX compositing, o que faz todo sentido com nossa operação da Joyful de Educação. Ciências de Dados por me ensinar como funciona o aprendizado de modo profundo e VFX por me possibilitar criar conteúdos únicos pra nossos cursos.
+Ciências de Dados por sua vez me ensina como funciona o aprendizado de modo profundo e VFX compositing me possibilita me expressar melhor.
 
 Além disso cuidado das operações da Vithar que trabalha com marketplaces como Mercado Livre e Shopee.
 
 Mas isso responde por onde passei, o que estudei, mas quem sou?
 
-Sou aquele que olha no olho de todo ser que respira e entende que assim como eu tem direito a viver a melhor vida possível, ou seja ter bem-estar ou melhor inteireza(se quiser saber o que isso significa vai ter que comprar meu curso). Então minha missão é trabalhar pra aumentar o bem-estar do maior número possível de seres que respiram. Gosto de incomodar, ser espelho dos defeitos alheios, não nasci pra agradar, nasci pra dar a possibilidade das pessoas melhorarem. Não nasci pra julgar, como todo ser que tem um receptáculo humano, nasci para amar.
-
-Claro que também conheço meus defeitos, são inúmeros, mas eu que não vou dar publicidade a eles, afinal burrice ou tolice não fazem parte deles.
+Sou um ser que gosta de fazer perguntas e resolver problemas
 
 E você quem é?
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+
+* [LinkedIn](https://www.linkedin.com/in/danidra/)
+* [Medium](https://medium.com/@idra/)
 
 
 ## Projetos:
