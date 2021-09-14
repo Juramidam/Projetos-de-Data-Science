@@ -37,5 +37,5 @@ E você quem é?
 Até o momento:
 
 * **Análise dos imóveis do Airbnb em Salém, Massachusetts:** https://bit.ly/37CGQtf
-* **Análise dos dados da Covid-19 no Brasil:**https://bit.ly/3C7MHEa
+* **Análise dos dados da Covid-19 no Brasil:** https://bit.ly/3C7MHEa
 
