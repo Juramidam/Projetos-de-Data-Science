@@ -25,8 +25,6 @@ Sou um ser que gosta de fazer perguntas e resolver problemas
 
 E você quem é?
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
-
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/danidra/)
