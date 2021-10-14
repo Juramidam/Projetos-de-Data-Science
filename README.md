@@ -5,7 +5,7 @@
 </p>
 
 # Dan Idra
-<sub>*Sócio Fundador* da Joyful Educação Financeira</sub>
+
 
 Você não acha cansativo e totalmente padronizado estes resuminhos profissionais?
 
