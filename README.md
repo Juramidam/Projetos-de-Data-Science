@@ -17,7 +17,7 @@ Antes disso fiz dois anos de física no Instituto de Física da USP que me fez a
 
 Ciências de Dados por sua vez me ensina como funciona o aprendizado de modo profundo e VFX compositing me possibilita me expressar melhor.
 
-Além disso cuidado das operações da Vithar que trabalha com marketplaces como Mercado Livre e Shopee.
+Além disso cuidei das operações da Vithar que trabalha com marketplaces como Mercado Livre e Shopee.
 
 Mas isso responde por onde passei, o que estudei, mas quem sou?
 
